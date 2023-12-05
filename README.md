@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phrnosh&hide=Vim+Script,Vim+Snippet,C&theme=tokyonight&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/phrnosh)
 <!--
 **phrnosh/phrnosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
